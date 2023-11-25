@@ -83,7 +83,7 @@
                 <version>3.3.2</version>
                 <configuration>
                     <to>
-                        <image>spiritl/${project.artifactId}:s4</image>
+                        <image>spiritl/${project.artifactId}:s6</image>
                     </to>
                 </configuration>
             </plugin>
