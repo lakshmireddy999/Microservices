@@ -1,12 +1,7 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to DemoBank accounts related prod APIs "
   contactDetails:
     name: "Spirit - Product Owner"
